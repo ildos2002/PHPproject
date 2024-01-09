@@ -1,0 +1,1 @@
+ИС для работы с актами об оказании услуг + Бэкап БД PostgreSQL. Подключение по OpenServer. Проект в папку domains (пример: C:\OSPanel\domains\aktuslug). Параметры подключения менять в файлах в строчках: $dbconn = pg_connect("hostaddr = 127.0.0.1 port = 5433 dbname = aktuslugi user = postgres password = ********").
